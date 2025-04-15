@@ -27,17 +27,16 @@ Customer reviews on platforms like Yelp provide valuable feedback, but analyzing
 ```code
 Yelp-Review-Sentiment-Analysis/
 ├── Yelp_Data_PreProcessing.py           # Merges and preprocesses datasets
+├── Sclable_EDA_Final 
 ├── Scalable_Project_ML_Model_Analysis.py # Training SVM and LR models
 ├── Scalable_Project_SVM_Model_Deployment.py # Saving models to HDFS
 ├── Prediction_Pipe_Line.py              # Real-time sentiment prediction
-├── SentimentAnalysis on yelp business reviews.docx # Documentation on sentiment analysis
-├── FinalReport.docx                     # Final project report
 └── README.md                            # This file
 ```
 
 ---
 
-## 🔍 Workflow Summary
+##  Workflow Summary
 
 1. **Data Merging & Cleaning**:
    - Yelp Review + User + Business datasets loaded as Spark DataFrames.
